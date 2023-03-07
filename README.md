@@ -1,7 +1,5 @@
 # FullStackLAB365-modulo1-semana2-exercicios
 
-[Fullstack LAB365] Módulo 1 - Semana 2 - Exercícios
-
 Curso Fullstack da LAB365/Senai
 
 Resolução dos exercícios da Semana 2, Módulo 1
